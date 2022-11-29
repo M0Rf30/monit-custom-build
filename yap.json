@@ -1,0 +1,11 @@
+{
+  "name": "Monit",
+  "description": "This is the manifest to build monit package for supported distros",
+  "buildDir": "/tmp/",
+  "output": "artifacts",
+  "projects": [
+    {
+      "name": "package"
+    }
+  ]
+}
